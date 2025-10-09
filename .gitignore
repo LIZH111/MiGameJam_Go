@@ -1,0 +1,20 @@
+# 忽略UE生成的文件
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+.vscode/
+
+# 忽略IDE文件
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 忽略平台特定文件
+[Bb]uild/
