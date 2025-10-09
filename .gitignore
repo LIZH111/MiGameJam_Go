@@ -1,20 +1,25 @@
-# 忽略UE生成的文件
-Binaries/
-Intermediate/
-Saved/
-DerivedDataCache/
-Build/
-.vs/
-.vscode/
-
-# 忽略IDE文件
-*.VC.db
-*.opensdf
-*.sdf
-*.sln
-*.suo
-*.xcodeproj
-*.xcworkspace
-
-# 忽略平台特定文件
-[Bb]uild/
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/Config/CoalescedSourceConfigs/Crypto.ini
+Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/ObjectMixerSerializedData.ini
+Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSessionBrowserSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
+Intermediate/PipInstall/extra_urls.txt
+Intermediate/PipInstall/merged_requirements.in
+Intermediate/PipInstall/pyreqs_plugins.list
+Intermediate/PipInstall/Lib/site-packages/plugin_site_package.pth
+Intermediate/ReimportCache/3688439234.bin
+Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Saved/AutoScreenshot.png
+Saved/Autosaves/PackageRestoreData.json
+Saved/Config/CrashReportClient/UECC-Windows-9D775DED4BFEAFED96EF53A49CEF937B/CrashReportClient.ini
+Saved/Config/WindowsEditor/Editor.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/GameUserSettings.ini
+Saved/Logs/MiGameJam.log
+Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
+Saved/Telemetry/Telemetry.json
